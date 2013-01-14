@@ -1,0 +1,8 @@
+{
+  "actions" : [ {
+    "comment" : "Open this repository on github.com",
+    "menu_caption" : "Open repository on Github",
+    "script_target" : "Open_repository_on_Github.sh",
+    "parameters" : "$REPO"
+  } ]
+}

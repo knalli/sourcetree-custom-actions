@@ -1,0 +1,8 @@
+{
+  "actions" : [ {
+    "comment" : "Open this commit on github.com",
+    "menu_caption" : "Open commit on Github",
+    "script_target" : "Open_commit_on_Github.sh",
+    "parameters" : "$SHA"
+  } ]
+}

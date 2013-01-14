@@ -1,0 +1,8 @@
+{
+  "actions" : [ {
+    "comment" : "Review: Send this commit via mail",
+    "menu_caption" : "Send review as mail",
+    "script_target" : "Send_review.sh",
+    "parameters" : "$SHA"
+  } ]
+}

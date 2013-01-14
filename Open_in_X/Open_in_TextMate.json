@@ -1,0 +1,13 @@
+{
+  "actions" : [ {
+    "comment" : "Opens current file in TextMate",
+    "menu_caption" : "Open in TextMate",
+    "script_target" : "/usr/local/mate",
+    "parameters" : "$FILE"
+  }, {
+    "comment" : "Opens repository in TextMate",
+    "menu_caption" : "Open in TextMate",
+    "script_target" : "/usr/local/mate",
+    "parameters" : "$REPO"
+  } ]
+}
