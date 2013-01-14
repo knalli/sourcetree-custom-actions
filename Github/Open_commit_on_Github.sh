@@ -17,4 +17,4 @@ function github_base_url() {
   echo $giturl
 }
 
-open "$(github_base_url)commits/$1"
+open "$(github_base_url)commit/$1"
