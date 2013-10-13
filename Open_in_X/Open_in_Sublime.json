@@ -1,0 +1,13 @@
+{
+  "actions" : [ {
+    "comment" : "Opens current file in Sublime Text",
+    "menu_caption" : "Open in Sublime Text",
+    "script_target" : "/usr/bin/subl",
+    "parameters" : "$FILE"
+  }, {
+    "comment" : "Opens repository in Sublime Text",
+    "menu_caption" : "Open in Sublime Text",
+    "script_target" : "/usr/bin/subl",
+    "parameters" : "$REPO"
+  } ]
+}
