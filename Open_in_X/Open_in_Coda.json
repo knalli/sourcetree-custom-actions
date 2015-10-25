@@ -1,0 +1,13 @@
+{
+  "actions" : [ {
+    "comment" : "Opens current file in Coda",
+    "menu_caption" : "Open in Coda",
+    "script_target" : "/Applications/Coda 2.app/Contents/MacOS/Coda 2",
+    "parameters" : "$FILE"
+  }, {
+    "comment" : "Opens repository in Coda",
+    "menu_caption" : "Open in Coda",
+    "script_target" : "/Applications/Coda 2.app/Contents/MacOS/Coda 2",
+    "parameters" : "$REPO"
+  } ]
+}
